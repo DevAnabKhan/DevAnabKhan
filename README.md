@@ -103,11 +103,5 @@ Currently building scalable solutions at **SWIFTBYTES**, I've had the privilege 
   </table>
 </div>
 
-## 📅 Contribution Grid
-<div align="center">
-<img src="https://ghchart.rshah.org/007BFF/DevAnabKhan" alt="Contribution Chart" width="80%" />
-</div>
-
-
 > 💬 "Code is not just code – it's a reflection of your thinking."  
 > ✨ Always open to learning, collaborating, and building impactful apps.</p>
