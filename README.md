@@ -36,15 +36,15 @@ Currently building scalable solutions at **SWIFTBYTES**, I've had the privilege 
 ## 🌐 Let's Connect & Collaborate
 <div align="center">
   <a href="mailto:anabkhan8148@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&logoWidth=40" height="50" width="150" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&logoWidth=40" height="40" width="150" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/anabkhan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=40" height="50" width="150" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=40" height="40" width="150" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DevAnabKhan">
-    <img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=6E40C9&logoWidth=40" height="50" width="150" />
+    <img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=6E40C9&logoWidth=40" height="40" width="150" />
   </a>
 </div>
 
