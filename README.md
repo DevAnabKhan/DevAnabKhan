@@ -24,6 +24,14 @@ Currently building scalable solutions at **SWIFTBYTES**, I've had the privilege 
 </tr>
 </table>
 
+## 💻 Skills & Technologies
+  
+- **Mobile Development:** Flutter, Dart, Bloc, Provider, GetX   
+- **Cloud & Databases:** Firebase (Auth, Firestore, Storage, Push Notifications) · SQLite · Hive  
+- **Tools:** Git · GitHub · Postman · Android Studio  
+- **Architectures:** Clean Architecture · Layered Architecture  
+- **Other Expertise:** Responsive UI · Animations · Push Notifications · APIs Integration 
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevAnabKhan&show_icons=true&theme=radical&hide_border=true" width="48%" />
