@@ -107,6 +107,10 @@ Currently building scalable solutions at **SWIFTBYTES**, I've had the privilege 
         <img src="https://skillicons.dev/icons?i=js" width="64" height="64" alt="JavaScript" />
         <br><strong>JavaScript</strong>
       </td>
+       <td align="center" width="120" style="padding: 12px;">
+        <img src="https://skillicons.dev/icons?i=py" width="64" height="64" alt="Python" />
+        <br><strong>Python</strong>
+      </td>
     </tr>
   </table>
 </div>
