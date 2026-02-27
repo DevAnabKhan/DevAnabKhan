@@ -63,7 +63,9 @@ I'm a passionate **Flutter Engineer** with 2+ years of experience building fast,
 
 ## 🚀 Featured Projects 
 
-### HighQuality Delivery Rider application for real-time order fulfillment, tracking, navigation, status updates, and attendance management. 
+### HighQuality Delivery
+Delivery Rider application for real-time order fulfillment, tracking, navigation, status updates, and attendance management. 
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
@@ -73,11 +75,16 @@ I'm a passionate **Flutter Engineer** with 2+ years of experience building fast,
 ![Location](https://img.shields.io/badge/Background-Location-blue?style=flat) 
 ![Clean](https://img.shields.io/badge/Clean-Code-purple?style=flat) 
 ![PM](https://img.shields.io/badge/Project-Management-333333?style=flat) 
-![UI](https://img.shields.io/badge/UI-Design-0A66C2?style=flat) 
+![UI](https://img.shields.io/badge/UI-Design-0A66C2?style=flat)
+
+**Live:** 🔗 [View Project](https://play.google.com/store/apps/details?id=com.swiftGo.com)
+
 
 ---
 
-### Qofi Customer ordering app to browse coffee menus, customize items, login securely, pay/checkout, and track orders in real time with rider dispatch integration. 
+### Qofi 
+Customer ordering app to browse coffee menus, customize items, login securely, pay/checkout, and track orders in real time with rider dispatch integration. 
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
 ![Bloc](https://img.shields.io/badge/Bloc-State%20Management-blue?style=flat) 
 ![FirebaseGoogleAuth](https://img.shields.io/badge/Firebase-Auth-FFCA28?style=flat&logo=firebase&logoColor=black)
@@ -92,7 +99,9 @@ I'm a passionate **Flutter Engineer** with 2+ years of experience building fast,
 
 --- 
 
-### Qofi Rider Dedicated rider app for Qofi deliveries with live tracking, order updates, navigation, communication, proof-of-delivery, and attendance workflows. 
+### Qofi Rider 
+Dedicated rider app for Qofi deliveries with live tracking, order updates, navigation, communication, proof-of-delivery, and attendance workflows. 
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
@@ -106,7 +115,9 @@ I'm a passionate **Flutter Engineer** with 2+ years of experience building fast,
 
 --- 
 
-### Eadam Customer ordering app for fresh products (fish, meat, groceries) with secure authentication, cart/checkout, and real-time order tracking. 
+### Eadam 
+Customer ordering app for fresh products (fish, meat, groceries) with secure authentication, cart/checkout, and real-time order tracking.
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
 ![Bloc](https://img.shields.io/badge/Bloc-State%20Management-blue?style=flat) 
 ![FirebaseAuth](https://img.shields.io/badge/Firebase-Auth-FFCA28?style=flat&logo=firebase&logoColor=black) 
@@ -119,9 +130,13 @@ I'm a passionate **Flutter Engineer** with 2+ years of experience building fast,
 ![PM](https://img.shields.io/badge/Project-Management-333333?style=flat) 
 ![UI](https://img.shields.io/badge/UI-Design-0A66C2?style=flat) 
 
+**Live:** 🔗 [View Project](https://apps.apple.com/pk/app/eadam/id6743176438)
+
 --- 
 
-### Eadam Delivery Rider app for delivery handling with navigation, live status updates, order fulfillment, and attendance management. 
+### Eadam Delivery 
+Rider app for delivery handling with navigation, live status updates, order fulfillment, and attendance management. 
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
@@ -135,7 +150,9 @@ I'm a passionate **Flutter Engineer** with 2+ years of experience building fast,
 
 --- 
 
-### Invoicely (Flutter Web) Flutter Web invoicing system for gold workshops to generate invoices and manage pricing securely. 
+### Goldivo (Flutter Web) 
+Flutter Web invoicing system for gold workshops to generate invoices and manage pricing securely. 
+
 ![FlutterWeb](https://img.shields.io/badge/Flutter-Web-02569B?style=flat&logo=flutter&logoColor=white) 
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat) 
 ![FirebaseAuth](https://img.shields.io/badge/Firebase-Auth-FFCA28?style=flat&logo=firebase&logoColor=black) 
@@ -143,9 +160,13 @@ I'm a passionate **Flutter Engineer** with 2+ years of experience building fast,
 ![Hosting](https://img.shields.io/badge/Firebase-Hosting-FFCA28?style=flat&logo=firebase&logoColor=black) 
 ![Responsive](https://img.shields.io/badge/Responsive-UI-0A66C2?style=flat) 
 
+**Live:** 🔗 [View Project](https://danaqatarjewellery.com/)
+
 --- 
 
-### Qoutify (Flutter Web) Quotation builder for garage workshops with categorized services and flexible pricing models (one-time / weekly / etc.). 
+### Quoteify (Flutter Web) 
+Quotation builder for garage workshops with categorized services and flexible pricing models (one-time / weekly / etc.).
+
 ![FlutterWeb](https://img.shields.io/badge/Flutter-Web-02569B?style=flat&logo=flutter&logoColor=white) 
 ![FirebaseAuth](https://img.shields.io/badge/Firebase-Auth-FFCA28?style=flat&logo=firebase&logoColor=black) 
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat) 
@@ -153,14 +174,20 @@ I'm a passionate **Flutter Engineer** with 2+ years of experience building fast,
 ![Hosting](https://img.shields.io/badge/Firebase-Hosting-FFCA28?style=flat&logo=firebase&logoColor=black) 
 ![Responsive](https://img.shields.io/badge/Responsive-UI-0A66C2?style=flat) 
 
+**Live:** 🔗 [View Project](https://autoquote-c6207.web.app)
+
 --- 
 
-### Upalerts Cross-platform job alerts app featuring real-time notifications and advanced filters (contributed fixes & improvements). 
+### Upalerts 
+Cross-platform job alerts app featuring real-time notifications and advanced filters (contributed fixes & improvements). 
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
 ![Bloc](https://img.shields.io/badge/Bloc-State%20Management-blue?style=flat) 
 ![Firestore](https://img.shields.io/badge/Cloud-Firestore-orange?style=flat) 
 ![Push](https://img.shields.io/badge/Push-Notifications-red?style=flat) 
 ![SQA](https://img.shields.io/badge/SQA-Manual-555555?style=flat)
+
+**Live:** 🔗 [View Project](https://play.google.com/store/apps/details?id=com.upalerts.app)
 
 ## 📊 GitHub Stats 
 <table align="center"> 
