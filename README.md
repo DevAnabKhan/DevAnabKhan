@@ -279,6 +279,10 @@ Cross-platform job alerts app featuring real-time notifications and advanced fil
   </table> 
 </div> 
 
+## 📝 Technical Articles
+- [Why Stripe Crashed My Flutter App on Some Phones and How I Fixed It](https://medium.com/@anabkhan8148/why-stripe-crashed-my-flutter-app-on-some-phones-and-how-i-fixed-it-8355317ada4b)
+- [Building a Reliable Background Location Tracking System in Flutter](https://medium.com/@anabkhan8148/building-a-reliable-background-location-tracking-system-in-flutter-42067082915a)
+
 ## 🌐 Let’s Connect
 
 <p align="center">
