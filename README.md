@@ -73,7 +73,6 @@ Cross-platform eSIM marketplace application enabling users to browse internation
 ![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat&logo=stripe&logoColor=white)
 ![Deep Linking](https://img.shields.io/badge/Deep-Linking-orange?style=flat)
 ![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-purple?style=flat)
-![PM](https://img.shields.io/badge/Project-Management-333333?style=flat)
 
 ---
 
@@ -119,7 +118,6 @@ Customer ordering app to browse coffee menus, customize items, login securely, a
 ![Push](https://img.shields.io/badge/Push-Notifications-red?style=flat) 
 ![Maps](https://img.shields.io/badge/Google-Maps-4285F4?style=flat&logo=googlemaps&logoColor=white) 
 ![REST API](https://img.shields.io/badge/REST-APIs-green?style=flat) 
-![PM](https://img.shields.io/badge/Project-Management-333333?style=flat) 
 
 --- 
 
@@ -133,7 +131,6 @@ Customer ordering application for a marketplace, allowing users to browse produc
 ![Maps](https://img.shields.io/badge/Google-Maps-4285F4?style=flat&logo=googlemaps&logoColor=white) 
 ![Location](https://img.shields.io/badge/Background-Location-blue?style=flat)
 ![REST API](https://img.shields.io/badge/REST-APIs-green?style=flat) 
-![PM](https://img.shields.io/badge/Project-Management-333333?style=flat) 
 
 **Live:** 🔗 [View Project](https://apps.apple.com/pk/app/eadam/id6743176438)
 
@@ -174,7 +171,6 @@ Cross-platform job alerts app featuring real-time notifications and advanced fil
 ![Bloc](https://img.shields.io/badge/Bloc-State%20Management-blue?style=flat) 
 ![Firestore](https://img.shields.io/badge/Cloud-Firestore-orange?style=flat) 
 ![Push](https://img.shields.io/badge/Push-Notifications-red?style=flat) 
-![SQA](https://img.shields.io/badge/SQA-Manual-555555?style=flat)
 
 **Live:** 🔗 [View Project](https://play.google.com/store/apps/details?id=com.upalerts.app)
 
