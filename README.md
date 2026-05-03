@@ -94,7 +94,7 @@ Delivery Rider application for real-time order fulfillment, tracking, navigation
 
 ---
 
-### E-Shop — Multi-Vendor E-Commerce Platform
+### E-Shop
 Full-stack multi-vendor eCommerce platform with authentication, product management, order handling, and Stripe-based payments. Supports vendor-specific stores, real-time features, and scalable backend architecture.
 
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat&logo=react&logoColor=black)
@@ -112,11 +112,11 @@ Full-stack multi-vendor eCommerce platform with authentication, product manageme
 ---
 
 ### Qofi 
-Customer ordering app to browse coffee menus, customize items, login securely, pay/checkout, and track orders in real time with rider dispatch integration. 
+Customer ordering app to browse coffee menus, customize items, login securely, and track orders in real time with rider dispatch integration. Includes a dedicated rider app for delivery management with live tracking, navigation, order updates, and proof-of-delivery. 
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
 ![Bloc](https://img.shields.io/badge/Bloc-State%20Management-blue?style=flat) 
-![FirebaseGoogleAuth](https://img.shields.io/badge/Firebase-Auth-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Location](https://img.shields.io/badge/Background-Location-blue?style=flat) 
 ![GoogleAuth](https://img.shields.io/badge/Google-Auth-4285F4?style=flat&logo=google&logoColor=white) 
 ![Push](https://img.shields.io/badge/Push-Notifications-red?style=flat) 
 ![Maps](https://img.shields.io/badge/Google-Maps-4285F4?style=flat&logo=googlemaps&logoColor=white) 
@@ -128,31 +128,15 @@ Customer ordering app to browse coffee menus, customize items, login securely, p
 
 --- 
 
-### Qofi Rider 
-Dedicated rider app for Qofi deliveries with live tracking, order updates, navigation, communication, proof-of-delivery, and attendance workflows. 
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
-![Push](https://img.shields.io/badge/Push-Notifications-red?style=flat) 
-![Maps](https://img.shields.io/badge/Google-Maps-4285F4?style=flat&logo=googlemaps&logoColor=white) 
-![REST API](https://img.shields.io/badge/REST-APIs-green?style=flat) 
-![Location](https://img.shields.io/badge/Background-Location-blue?style=flat) 
-![Clean](https://img.shields.io/badge/Clean-Code-purple?style=flat) 
-![PM](https://img.shields.io/badge/Project-Management-333333?style=flat) 
-![UI](https://img.shields.io/badge/UI-Design-0A66C2?style=flat) 
-
---- 
-
 ### Eadam 
-Customer ordering app for fresh products (fish, meat, groceries) with secure authentication, cart/checkout, and real-time order tracking.
+Customer ordering application for a marketplace, allowing users to browse products, place orders, and track them in real time with secure authentication and checkout. Includes rider app for delivery management with navigation and order fulfillment.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
 ![Bloc](https://img.shields.io/badge/Bloc-State%20Management-blue?style=flat) 
-![FirebaseAuth](https://img.shields.io/badge/Firebase-Auth-FFCA28?style=flat&logo=firebase&logoColor=black) 
 ![GoogleAuth](https://img.shields.io/badge/Google-Auth-4285F4?style=flat&logo=google&logoColor=white) 
 ![Push](https://img.shields.io/badge/Push-Notifications-red?style=flat) 
 ![Maps](https://img.shields.io/badge/Google-Maps-4285F4?style=flat&logo=googlemaps&logoColor=white) 
+![Location](https://img.shields.io/badge/Background-Location-blue?style=flat)
 ![REST API](https://img.shields.io/badge/REST-APIs-green?style=flat) 
 ![Clean](https://img.shields.io/badge/Clean-Architecture-purple?style=flat) 
 ![SQA](https://img.shields.io/badge/SQA-Manual-555555?style=flat) 
@@ -160,22 +144,6 @@ Customer ordering app for fresh products (fish, meat, groceries) with secure aut
 ![UI](https://img.shields.io/badge/UI-Design-0A66C2?style=flat) 
 
 **Live:** 🔗 [View Project](https://apps.apple.com/pk/app/eadam/id6743176438)
-
---- 
-
-### Eadam Delivery 
-Rider app for delivery handling with navigation, live status updates, order fulfillment, and attendance management. 
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
-![Push](https://img.shields.io/badge/Push-Notifications-red?style=flat) 
-![REST API](https://img.shields.io/badge/REST-APIs-green?style=flat) 
-![Maps](https://img.shields.io/badge/Google-Maps-4285F4?style=flat&logo=googlemaps&logoColor=white)
-![Location](https://img.shields.io/badge/Background-Location-blue?style=flat) 
-![Clean](https://img.shields.io/badge/Clean-Code-purple?style=flat) 
-![PM](https://img.shields.io/badge/Project-Management-333333?style=flat) 
-![UI](https://img.shields.io/badge/UI-Design-0A66C2?style=flat) 
 
 --- 
 
