@@ -86,9 +86,6 @@ Delivery Rider application for real-time order fulfillment, tracking, navigation
 ![REST API](https://img.shields.io/badge/REST-APIs-green?style=flat) 
 ![Maps](https://img.shields.io/badge/Google-Maps-4285F4?style=flat&logo=googlemaps&logoColor=white) 
 ![Location](https://img.shields.io/badge/Background-Location-blue?style=flat) 
-![Clean](https://img.shields.io/badge/Clean-Code-purple?style=flat) 
-![PM](https://img.shields.io/badge/Project-Management-333333?style=flat) 
-![UI](https://img.shields.io/badge/UI-Design-0A66C2?style=flat)
 
 **Live:** 🔗 [View Project](https://play.google.com/store/apps/details?id=com.swiftGo.com)
 
@@ -121,10 +118,7 @@ Customer ordering app to browse coffee menus, customize items, login securely, a
 ![Push](https://img.shields.io/badge/Push-Notifications-red?style=flat) 
 ![Maps](https://img.shields.io/badge/Google-Maps-4285F4?style=flat&logo=googlemaps&logoColor=white) 
 ![REST API](https://img.shields.io/badge/REST-APIs-green?style=flat) 
-![Clean](https://img.shields.io/badge/Clean-Architecture-purple?style=flat) 
-![SQA](https://img.shields.io/badge/SQA-Manual-555555?style=flat) 
 ![PM](https://img.shields.io/badge/Project-Management-333333?style=flat) 
-![UI](https://img.shields.io/badge/UI-Design-0A66C2?style=flat)
 
 --- 
 
@@ -138,10 +132,7 @@ Customer ordering application for a marketplace, allowing users to browse produc
 ![Maps](https://img.shields.io/badge/Google-Maps-4285F4?style=flat&logo=googlemaps&logoColor=white) 
 ![Location](https://img.shields.io/badge/Background-Location-blue?style=flat)
 ![REST API](https://img.shields.io/badge/REST-APIs-green?style=flat) 
-![Clean](https://img.shields.io/badge/Clean-Architecture-purple?style=flat) 
-![SQA](https://img.shields.io/badge/SQA-Manual-555555?style=flat) 
 ![PM](https://img.shields.io/badge/Project-Management-333333?style=flat) 
-![UI](https://img.shields.io/badge/UI-Design-0A66C2?style=flat) 
 
 **Live:** 🔗 [View Project](https://apps.apple.com/pk/app/eadam/id6743176438)
 
