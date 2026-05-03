@@ -73,6 +73,7 @@ Cross-platform eSIM marketplace application enabling users to browse internation
 ![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat&logo=stripe&logoColor=white)
 ![Deep Linking](https://img.shields.io/badge/Deep-Linking-orange?style=flat)
 ![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-purple?style=flat)
+![PM](https://img.shields.io/badge/Project-Management-333333?style=flat)
 
 ---
 
