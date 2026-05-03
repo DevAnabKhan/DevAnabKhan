@@ -63,6 +63,19 @@ I'm a passionate **Flutter Engineer** with 2+ years of experience building fast,
 
 ## 🚀 Featured Projects 
 
+### Elitesim
+Cross-platform eSIM marketplace application enabling users to browse international data plans, purchase eSIMs, and complete secure checkout using Stripe with deep link-based payment status handling. Currently deployed on Google Play Store in testing phase. 
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-State%20Management-blue?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-APIs-green?style=flat)
+![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat&logo=stripe&logoColor=white)
+![Deep Linking](https://img.shields.io/badge/Deep-Linking-orange?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-purple?style=flat)
+
+---
+
 ### HighQuality Delivery
 Delivery Rider application for real-time order fulfillment, tracking, navigation, status updates, and attendance management. 
 
@@ -79,6 +92,22 @@ Delivery Rider application for real-time order fulfillment, tracking, navigation
 
 **Live:** 🔗 [View Project](https://play.google.com/store/apps/details?id=com.swiftGo.com)
 
+---
+
+### E-Shop — Multi-Vendor E-Commerce Platform
+Full-stack multi-vendor eCommerce platform with authentication, product management, order handling, and Stripe-based payments. Supports vendor-specific stores, real-time features, and scalable backend architecture.
+
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-API-black?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat&logo=stripe&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-Realtime-010101?style=flat&logo=socket.io&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-Media-3448C5?style=flat)
+![JWT](https://img.shields.io/badge/JWT-Auth-orange?style=flat)
+
+**Live:** 🔗 [View Project](https://e-shop-5v54.vercel.app/)
+**GitHub:** 💻 https://github.com/DevAnabKhan/E-shop
 
 ---
 
