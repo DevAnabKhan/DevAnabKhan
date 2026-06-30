@@ -48,6 +48,8 @@ I'm a passionate **Flutter Engineer** with 2+ years of experience building fast,
   `REST APIs` · `Node.js` · `Express.js` · `FastAPI` · `Authentication`
 - #### Cloud & Databases
   `Firebase Auth` · `Firestore` · `Storage` · `FCM` · `Hosting` · `MongoDB` · `MySQL` · `SQLite` · `Hive`
+- DevOps & Cloud
+  `Docker` · `Docker Compose` · `AWS EC2` · `AWS ECR` · `GitHub Actions` · `CI/CD` · `Nginx` · `Linux`
 - #### Architecture & Quality
   `Clean Architecture` · `SOLID` · `Modular Design` · `Reusable Components` · `Manual QA` · `Jira`
   </td>
