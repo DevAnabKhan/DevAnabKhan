@@ -57,6 +57,7 @@ I'm a passionate **Flutter Engineer** with 2+ years of experience building fast,
 
 | Focus Area | What I'm learning |
 |------------|--------------------|
+|🐳 DevOps | Docker, AWS (EC2, ECR), CI/CD pipelines |
 | 🚀 Full-Stack | MERN stack projects & deployments |
 | 🏗 Backend Design | Scalable REST APIs & auth systems |
 | ⚡ Performance | Clean architecture & system thinking |
