@@ -290,6 +290,7 @@ Cross-platform job alerts app featuring real-time notifications and advanced fil
 </div> 
 
 ## 📝 Technical Articles
+- [How TO Integrate Stripe Payment Sheet In Flutter Using Payment Intents](https://medium.com/@anabkhan8148/how-to-integrate-stripe-payment-sheet-in-flutter-using-payment-intents-ab03eca550b1)
 - [Why Stripe Crashed My Flutter App on Some Phones and How I Fixed It](https://medium.com/@anabkhan8148/why-stripe-crashed-my-flutter-app-on-some-phones-and-how-i-fixed-it-8355317ada4b)
 - [Building a Reliable Background Location Tracking System in Flutter](https://medium.com/@anabkhan8148/building-a-reliable-background-location-tracking-system-in-flutter-42067082915a)
 
