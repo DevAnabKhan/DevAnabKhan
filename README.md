@@ -263,7 +263,29 @@ Cross-platform job alerts app featuring real-time notifications and advanced fil
         <img src="https://skillicons.dev/icons?i=vscode" width="48" /> 
         <br><strong>VS Code</strong> 
       </td> 
+       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" />
+        <br><strong>Linux</strong>
+      </td>
     </tr> 
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" />
+        <br><strong>Docker</strong>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" />
+        <br><strong>AWS</strong>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nginx" width="48" />
+        <br><strong>Nginx</strong>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="48" />
+        <br><strong>GH Actions</strong>
+      </td>
+    </tr>
   </table> 
 </div> 
 
